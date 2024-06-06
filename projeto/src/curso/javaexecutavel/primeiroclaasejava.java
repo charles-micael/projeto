@@ -7,6 +7,7 @@ public class primeiroclaasejava {
 		
 		/*escrever texto no console*/
 		System.out.println("meu primeiro programa em java ");
+		System.out.println("teste commit");
 		
 	}
 
